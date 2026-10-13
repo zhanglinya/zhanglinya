@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zhanglinya
 - 👀 I’m interested in data science, statistic analysis.
-- 🌱 I’m currently learning Asian options.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
